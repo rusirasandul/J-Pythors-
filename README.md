@@ -61,8 +61,10 @@ Our team worked on one of these case studies using provided datasets and guideli
 ---
 
 ## **Collaborators**
-- Lavindu Rusira
-- Lakindu Nimesh
+- Lavindu
+- Rusira
+- Lakindu
+-  Nimesh
 - Sandali
 - Lojitha
 - Geethaka
