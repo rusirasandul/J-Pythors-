@@ -70,6 +70,7 @@ Our team worked on one of these case studies using provided datasets and guideli
 - Geethaka
 - Chamodi
 - Kaveesha
+- Lahiru
 
 ---
 
