@@ -64,7 +64,7 @@ Our team worked on one of these case studies using provided datasets and guideli
 - Lavindu
 - Rusira
 - Lakindu
--  Nimesh
+- Nimesh
 - Sandali
 - Lojitha
 - Geethaka
